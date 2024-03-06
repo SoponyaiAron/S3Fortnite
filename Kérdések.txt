@@ -1,0 +1,44 @@
+
+Rendben, itt vannak a módosított kérdések és válaszok C#-ban:
+
+Kérdés: Az int típus alapértelmezett értéke null? (Igen/Nem)
+Válasz: Nem, alapértelmezetten nulla.
+
+Kérdés: Az ArrayList jobb, mint a List<T>? (Igen/Nem)
+Válasz: Nem, elavult, használjunk List<T>-t.
+
+Kérdés: Az abstract osztály példányosítható? (Igen/Nem)
+Válasz: Nem, nem példányosítható.
+
+Kérdés: Az interface tartalmazhat adatmezőket? (Igen/Nem)
+Válasz: Nem, csak metódusokat és tulajdonságokat tartalmaz.
+
+Kérdés: A C# tiszta objektumorientált nyelv? (Igen/Nem)
+Válasz: Igen, teljes mértékben.
+
+Kérdés: A for ciklusnak mindig van feltétele? (Igen/Nem)
+Válasz: Nem, lehet üres is.
+
+Kérdés: Támogatja-e a C# a többszálú programozást? (Igen/Nem)
+Válasz: Igen, a Thread és a Task segítségével.
+
+Kérdés: A using csak erőforrások felszabadítására szolgál? (Igen/Nem)
+Válasz: Nem, IDisposable-t is kezel.
+
+Kérdés: A struct típus referenciát tárol? (Igen/Nem)
+Válasz: Nem, értéket tárol.
+
+Kérdés: Támogatja-e a C# az öröklődést? (Igen/Nem)
+Válasz: Igen, az osztályok között.
+
+Kérdés: Az async és await csak aszinkron műveletekhez? (Igen/Nem)
+Válasz: Igen, azokhoz használjuk.
+
+Kérdés: Az IEnumerable csak olvasható iterációt biztosít? (Igen/Nem)
+Válasz: Igen, olvasható iterációt.
+
+Kérdés: Minden kivételt kötelező kezelni a try-catch-ben? (Igen/Nem)
+Válasz: Nem, nem kötelező.
+
+Kérdés: A C# nyílt forráskódú nyelv? (Igen/Nem)
+Válasz: Nem, zárt forráskódú.
