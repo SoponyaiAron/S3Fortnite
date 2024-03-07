@@ -6,14 +6,19 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="Quiz" Height="600" Width="900">
-    <Grid>
-        <Button Name="answer1" Content="Button" HorizontalAlignment="Left" Height="70" Margin="85,305,0,0" VerticalAlignment="Top" Width="300"/>
-        <Button Name="answer2" Content="Button" HorizontalAlignment="Left" Height="70" Margin="509,305,0,0" VerticalAlignment="Top" Width="300"/>
-        <Button Name="answer4" Content="Button" HorizontalAlignment="Left" Height="70" Margin="509,416,0,0" VerticalAlignment="Top" Width="300"/>
-        <Button Name="answer3" Content="Button" HorizontalAlignment="Left" Height="70" Margin="85,416,0,0" VerticalAlignment="Top" Width="300"/>
+
+    <Grid x:Name="grid" Style="{DynamicResource GridStyle1}">
+        <Grid.Background>
+            <ImageBrush ImageSource="/bingus.jpg"/>
+        </Grid.Background>
+        <Button Name="answer1" Content="Null" HorizontalAlignment="Left" Height="70" Margin="85,305,0,0" VerticalAlignment="Top" Width="300"/>
+        <Button Name="answer2" Content="0" HorizontalAlignment="Left" Height="70" Margin="509,305,0,0" VerticalAlignment="Top" Width="300"/>
+        <Button Name="answer4" Content="NaM" HorizontalAlignment="Left" Height="70" Margin="509,416,0,0" VerticalAlignment="Top" Width="300" Click="answer4_Click"/>
+        <Button Name="answer3" Content="NaN" HorizontalAlignment="Left" Height="70" Margin="85,416,0,0" VerticalAlignment="Top" Width="300" Click="answer3_Click"/>
         <Button Name="showanswer" Content="Helyes válasz megjelenítése" HorizontalAlignment="Left" Height="40" Margin="235,519,0,0" VerticalAlignment="Top" Width="200" Click="Button_Click"/>
         <Button Name="next" Content="Következő" HorizontalAlignment="Left" Height="40" Margin="459,519,0,0" VerticalAlignment="Top" Width="200"/>
         <Label Name="kerdesszama" Content="Kérdés: 1 / 14" HorizontalAlignment="Left" Height="28" Margin="28,10,0,0" VerticalAlignment="Top" Width="109"/>
-        <TextBox Name="kerdes" HorizontalAlignment="Left" Height="127" Margin="85,100,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="724" TextAlignment="Center" TextChanged="TextBox_TextChanged" />
+        <TextBlock Margin="83,89,0,348" TextWrapping="Wrap" x:Name="kerdes" HorizontalAlignment="Left" Background="White" Opacity="0.5" FontSize="36" Width="726" TextAlignment="Center"><Run/><LineBreak/><Run Text="Mi az alapértelmezett értéke az int-nek?"/></TextBlock>
+
     </Grid>
 </Window>
