@@ -1,0 +1,48 @@
+Which language is not a true object-oriented programming language?
+
+VB.NET
+
+JAVA
+
+C++
+
+C#
+
+2)
+Which of the following is the correct output of the C#.NET code snippet given below?
+
+int[ , , ] a = new int[ 3, 2, 3 ];
+
+Console.WriteLine(a.Length);
+
+
+20
+
+4
+
+18 (jó)
+
+10
+
+3)
+Which of the following CANNOT occur multiple numbers of times in a program?
+
+Namespace
+
+Entry point (jó)
+
+Class
+
+Function
+
+4)
+Which of the following is base namespace in the .NET Framework Class Library?
+
+System.IO
+
+Object
+
+System
+
+System.Base(jó)
+
