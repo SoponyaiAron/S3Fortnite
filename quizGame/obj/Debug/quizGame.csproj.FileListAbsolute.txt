@@ -18,3 +18,14 @@ C:\Users\User\Suli!!!!!\S3Fortnite\Quiz-Game-Tutorial-Windows-Form\quizGame\obj\
 C:\Users\User\Suli!!!!!\S3Fortnite\Quiz-Game-Tutorial-Windows-Form\quizGame\obj\Debug\quizGame.csproj.CoreCompileInputs.cache
 C:\Users\User\Suli!!!!!\S3Fortnite\Quiz-Game-Tutorial-Windows-Form\quizGame\obj\Debug\quizGame.exe
 C:\Users\User\Suli!!!!!\S3Fortnite\Quiz-Game-Tutorial-Windows-Form\quizGame\obj\Debug\quizGame.pdb
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\bin\Debug\quizGame.exe
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\bin\Debug\quizGame.pdb
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.csproj.AssemblyReference.cache
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.csproj.CoreCompileInputs.cache
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.exe
+C:\Users\User\Suli!!!!!\S3Fortnite\quizGame\obj\Debug\quizGame.pdb

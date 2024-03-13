@@ -57,9 +57,9 @@ namespace quizGame
 
 
                 MessageBox.Show("Quiz Ended" + Environment.NewLine +
-                                "You have answered " + score + " questions correcly" + Environment.NewLine +
-                                "Your total percentage is " + percentage + " %" + Environment.NewLine +
-                                "Click Ok to play again"
+                                "Eltaláltál " + score + " kérdést helyesen" + Environment.NewLine +
+                                "A százalékod " + percentage + " %" + Environment.NewLine +
+                                "Nyomj ide hogy újra játsz!"
 
                     );
 
